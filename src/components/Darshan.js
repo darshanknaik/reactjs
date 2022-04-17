@@ -1,9 +1,9 @@
 import React from 'react';
 
 
-function Darshan(props) {
+function Darshan({name, title}) {
   return (
-    <div> iam {props.name} kamalakar {props.title}  </div>
+    <div> iam {name} kamalakar {title}  </div>
   )
 }
 
