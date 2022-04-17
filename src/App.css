@@ -4,9 +4,8 @@
   background-color: rgb(118, 165, 206);
 }
 .app{
- display: flex;
- color: aqua;
  
+ color: rgb(19, 227, 227);
  align-items: center;
  text-align: center;
  justify-content: center;
